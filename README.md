@@ -27,7 +27,7 @@ I’m always open to collaborations, projects, and new opportunities. Feel free 
 ---
 
 ## 🌐 Portfolio
-Check out my projects and work samples in my portfolio: [Your Portfolio Link Here](#)  
+Check out my projects and work samples in my portfolio: [Link](https://athiethan58-code.github.io/Portfolio/)  
 
 ---
 
